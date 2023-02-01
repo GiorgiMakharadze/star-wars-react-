@@ -9,4 +9,4 @@ You can search for characters,bookmark them and delete from bookmarks. You can c
 I'am using here  React⚛, Redux, Axios Librarys and Lodash an classnames packages!.
 
 ## Hot To Install and Run
-Download files and in terminal write npm install and then npm start.   
+Download files and in terminal write npm install and then npm start .   
