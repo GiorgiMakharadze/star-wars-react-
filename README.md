@@ -6,7 +6,7 @@ It's Star Wars Characters web page. You can find here various information about 
 You can search for characters,bookmark them and delete from bookmarks. You can change whole page theme!
 
 ## Tools Used
-I'am using here  React⚛, Redux, Axios, Lodash an classnames packages!.
+I'am using here  React⚛, Redux, Axios Librarys and Lodash an classnames packages!.
 
 ## Hot To Install and Run
 Download files and in terminal write npm install and then npm start.   
